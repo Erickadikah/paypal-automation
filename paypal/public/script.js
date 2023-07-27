@@ -1,4 +1,3 @@
-// Assuming this is your script.js file
 paypal.Buttons({
     createOrder: function (data, actions) {
         return fetch("/create-order", {
