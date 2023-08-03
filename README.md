@@ -1,5 +1,4 @@
 # Paypal Automation Test
-
 ## Description
 
 This is a test automation project for Paypal. It is written in JavaScript using [WebdriverIO](https://webdriver.io/) and [Cucumber](https://cucumber.io/).
@@ -20,3 +19,12 @@ Secure running in nodejs && Express
 ## Test Results
 
 Test results are stored in the `./reports` directory. The test results are in the `./reports/cucumber-json` directory and the test report is in the `./reports/cucumber-report` directory.
+
+## Script
+
+* ejs
+
+## Server 
+
+* Express
+* Nodejs
